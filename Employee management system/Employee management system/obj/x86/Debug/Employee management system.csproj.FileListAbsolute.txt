@@ -1,0 +1,18 @@
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\bin\Debug\Employee management system.exe.config
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\bin\Debug\Employee management system.exe
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\bin\Debug\Employee management system.pdb
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.csproj.AssemblyReference.cache
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee_management_system_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\_Employee management system.g.cs
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Workflow1.g.cs
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee_management_system_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.csproj.XamlPass2Flag.txt
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.dll
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.pdb
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.csproj.CoreCompileInputs.cache
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.exe
+C:\Users\RyanBryan\desktop\Employee management system\Employee management system\obj\x86\Debug\Employee management system.csproj.FileListAbsolute.txt
